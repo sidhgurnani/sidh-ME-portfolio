@@ -71,6 +71,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -134,48 +139,6 @@
       <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
-    
-      
-      
-        <label class="md-header__button md-icon" for="__search">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        </label>
-        <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-        <div class="md-search__suggest" data-md-component="search-suggest"></div>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-      
     
     
       <div class="md-header__source">
@@ -304,6 +267,21 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="." class="md-nav__link md-nav__link--active">
         
@@ -316,6 +294,61 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-me" class="md-nav__link">
+    <span class="md-ellipsis">
+      About Me
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#education" class="md-nav__link">
+    <span class="md-ellipsis">
+      Education
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resume" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resume
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Projects
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -362,9 +395,58 @@
   
 
 
-  <h1>Home</h1>
+<div><h1 id="_1"></h1>
+<div style="display: flex; align-items: center; gap: 50px;">
+  <img src="./assets/Headshot.jpeg" alt="Professional Headshot" style="width: 200px; height: auto; border-radius: 8px;">
 
+  <div>
+    <div style="font-size: 2.5rem; font-weight: bold;">Sidh Gurnani</div>
+    <div style="font-size: 1rem;">B.S. Mechanical Engineering · Purdue University · May 2025</div>
+  </div>
+</div>
 
+<h2 id="about-me"><strong>About Me</strong></h2>
+<p>Hello! I am a mechanical engineering graduate with a strong passion for learning, problem-solving, and developing innovative solutions. I actively seek opportunities to expand my knowledge and skills while growing both professionally and personally. I’m excited to contribute to meaningful projects and to continuously improve through new challenges.</p>
+<p>My experience includes working with various tools and programs that allow me to contribute to projects on all fronts, notably:</p>
+<ul>
+<li><strong>CAD &amp; FEA:</strong> Siemens NX, Creo Parametric, ANSYS  </li>
+<li><strong>Programming:</strong> Arduino (C/C++), Python, MATLAB, Simulink, Java, HTML  </li>
+<li><strong>Other/Misc:</strong> Computer Vision (YOLO), 3D Printing, Manual &amp; CNC Machining, Microsoft Office</li>
+</ul>
+<p>I enjoy tackling complex challenges that require a balance of creative thinking and technical precision. I am particularly motivated by opportunities that lead to innovative and practical solutions across a variety of engineering fields. This approach allows me to continuously learn and adapt as I grow in my career.</p>
+<p>Outside of engineering, I enjoy exploring new interests and developing skills that broaden my perspective. I’m eager to collaborate with others and contribute to projects that drive meaningful results.</p>
+<div><br></div>
+
+<h2 id="education"><strong>Education</strong></h2>
+<p><em>B.S. Mechanical Engineering · Purdue University · Aug 2021 - May 2025</em></p>
+<p><strong>Coursework:</strong></p>
+<ul>
+<li><strong>Math:</strong> Calculus I-III, Linear Algebra, Differential Equations</li>
+<li><strong>Controls:</strong> Electrical Engineering Fundamentals I, Controls I, Controls II</li>
+<li><strong>Mechanics:</strong> Statics, Dynamics, Mechanics of Materials, Machine Design, Structure and Properties of Materials</li>
+<li><strong>Programming:</strong> Object Oriented Programming (in Java), Entry-Level Programming in Python, The Data Mine Seminar II, The Data Mine Corporate Partners IV</li>
+<li><strong>Energy:</strong> Thermodynamics I, Fluid Mechanics, Fluid Mechanics Lab, Heat and Mass Transfer</li>
+<li><strong>Design:</strong> Graphical Communication, Computer Aided Design &amp; Prototyping (Toy Design), Tools, Methods, and Techniques for Rapid, Iterative Product Design and Analysis, Sophomore Design, Capstone Senior Design</li>
+<li><strong>Other Electives:</strong> Electric Vehicle Design, Engineering Economics, Introduction to Finite Element Analysis, System Methods</li>
+</ul>
+<p><strong>Involvement:</strong></p>
+<ul>
+<li><strong>Purdue Formula SAE:</strong> Drivetrain Member → Drivetrain System Owner (Sept 2022 to May 2025)</li>
+<li><strong>The Data Mine:</strong> Data Science Undergraduate Reasearcher (Jan 2025 to May 2025)</li>
+<li><strong>ME 290 Peer Mentor:</strong> (Aug 2024 to May 2025)</li>
+</ul>
+<div><br></div>
+
+<h2 id="resume"><strong>Resume</strong></h2>
+<p><a href="./assets/Sidh%20Gurnani%20-%20Resume%20(8.04).pdf" target="_blank" class="md-button md-button--primary">
+  CLICK TO VIEW MY RESUME
+</a></p>
+<div><br></div>
+
+<h2 id="projects"><strong>Projects</strong></h2>
+<p><a href="projects/" target="_blank" class="md-button md-button--primary">
+  CLICK TO VIEW MY PROJECTS
+</a></p></div>
 
 
 
@@ -396,30 +478,6 @@
       </main>
       
         <footer class="md-footer">
-  
-    
-      
-      <nav class="md-footer__inner md-grid" aria-label="Footer" >
-        
-        
-          
-          <a href="projects/" class="md-footer__link md-footer__link--next" aria-label="Next: Projects">
-            <div class="md-footer__title">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              <div class="md-ellipsis">
-                Projects
-              </div>
-            </div>
-            <div class="md-footer__button md-icon">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
-            </div>
-          </a>
-        
-      </nav>
-    
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
@@ -476,7 +534,7 @@
     
     
       
-      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.tabs", "navigation.top", "navigation.expand", "content.code.annotate", "content.tabs.link", "content.tooltips", "header.autohide", "search.suggest", "search.highlight", "toc.integrate", "navigation.footer", "content.code.copy"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.tabs", "navigation.top", "navigation.expand", "content.code.annotate", "content.tabs.link", "content.tooltips", "header.autohide", "search.suggest", "search.highlight", "toc.integrate", "content.code.copy"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="assets/javascripts/bundle.50899def.min.js"></script>
