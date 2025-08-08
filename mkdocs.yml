@@ -15,7 +15,7 @@ theme:
     - search.suggest
     - search.highlight
     - toc.integrate
-    - navigation.footer
+    # - navigation.footer
     # - content.action.edit
     # - content.action.view
     - content.code.copy
@@ -35,6 +35,11 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -45,11 +50,12 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:sidh.gurnani@gmail.com
 
+plugins:
+  - mkdocs-pdf
+
 nav:
   - Home: index.md
-  - About: about.md
   - Projects: projects.md
-  - Resume: resume.md
 
 repo_url: https://github.com/sidhgurnani/sidh-ME-portfolio
 repo_name: GitHub
