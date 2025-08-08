@@ -14,17 +14,25 @@ While I joined Purdue Formula SAE in September 2022, my most significant contrib
 
 **DCR - Design Criteria Review:**
 
+[Trouble Loading? Click Here to View PDF](./assets/PF25%20Drivetrain%20DCR.pdf)
+
 ![PF25 Drivetrain DCR](<./assets/PF25 Drivetrain DCR.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
 **CDR - Critical Design Review:**
+
+[Trouble Loading? Click Here to View PDF](./assets/PF25%20Drivetrain%20CDR.pdf)
 
 ![PF25 Drivetrain CDR](<./assets/PF25 Drivetrain CDR.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
 **Education Lecture PDFs (Combined):**
 
+[Trouble Loading? Click Here to View PDF](./assets/PF25%20Drivetrain%20Education%20Lectures%20-%20Merged.pdf)
+
 ![PF25 Drivetrain Lectures Merged](<./assets/PF25 Drivetrain Education Lectures - Merged.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
 **Education Project Assignment PDFs (Combined):**
+
+[Trouble Loading? Click Here to View PDF](./assets/PF25%20Drivetrain%20Education%20Projects%20-%20Merged.pdf)
 
 ![PF25 Drivetrain Projects Merged](<./assets/PF25 Drivetrain Education Projects - Merged.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
@@ -34,6 +42,8 @@ While I joined Purdue Formula SAE in September 2022, my most significant contrib
 _January 2025 to May 2025_
 
 I contributed to a collaborative project between The Data Mine at Purdue University and Kautex Textron, focusing on the development of a virtual melt flow index sensor. My primary role involved creating theoretical models that were used to validate and support the machine learning approach. This sensor aimed to improve quality control in fuel tank production by providing real-time insights into material properties. I also worked closely with team members to communicate findings and refine model accuracy through iterative testing and analysis.
+
+[Trouble Loading? Click Here to View PDF](./assets/TDM_Symposium2025_Poster_Kautex_MeltIndex.pdf)
 
 ![TDM Kautex Poster](<./assets/TDM_Symposium2025_Poster_Kautex_MeltIndex.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
@@ -50,10 +60,14 @@ I completed two major individual projects:
 
 [CLICK TO DOWNLOAD EXCEL MODEL](./assets/Sidh_Gurnani_Vehicle_Acceleration_Modelling.xlsx)
 
+[Trouble Loading? Click Here to View PDF](./assets/Sidh%20Gurnani%20-%20Vehicle%20Acceleration%20Modelling.pdf)
+
 ![Calculator Project](<./assets/Sidh Gurnani - Vehicle Acceleration Modelling.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
 
 * **Electric Go-Kart Design:** Tasked with designing a race-ready electric go-kart, I made and justified high-level decisions around powertrain, battery, and vehicle dynamics. This hypothetical design exercise emphasized applying system-level tradeoffs.
+
+[Trouble Loading? Click Here to View PDF](./assets/Fall%202024%20Design%20Problem%20-%20Sidh%20Gurnani.pdf)
 
 ![Final Project Design](<./assets/Fall 2024 Design Problem - Sidh Gurnani.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
@@ -66,6 +80,8 @@ This course provided advanced hands-on experience with Siemens NX for solid, sur
 
 For the group project, I led the surface modeling of an RC car body and conducted CFD analysis to explore its aerodynamic performance.
 
+[Trouble Loading? Click Here to View PDF](./assets/RC%20Car%20Final%20Presentation.pdf)
+
 ![Final Project Design](<./assets/RC Car Final Presentation.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
 
 <div><br></div>
@@ -75,8 +91,13 @@ _Summer 2023_
 
 While pursuing my internship at AEIS, one of the assignments I was tasked with was writing a technical article of any topic of my choosing. Given my interest in cars, I chose to look at the engine and study the common reasons behind why pistons fail. 
 
-Attached here is the technical article, as well as the presentation I made and presented to my supervisors. 
+Attached here is the technical article, as well as the presentation I made and presented to my supervisors.
+
+[Trouble Loading? Click Here to View PDF](./assets/Sidh%20Gurnani%20-%20Technical%20Article%20Presentation.pdf)
 
 ![Final Presentation](<./assets/Sidh Gurnani - Technical Article Presentation.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }
+
+
+[Trouble Loading? Click Here to View PDF](./assets/Sidh%20Gurnani%20-%20Technical%20Article%20Final%20Draft.pdf)
 
 ![Final Article](<./assets/Sidh Gurnani - Technical Article Final Draft.pdf>){ type=application/pdf style="min-height:90vh;width:100%" }

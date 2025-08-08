@@ -1,6 +1,6 @@
 #
-<div style="display: flex; align-items: center; gap: 50px;">
-  <img src="./assets/Headshot.jpeg" alt="Professional Headshot" style="width: 200px; height: auto; border-radius: 8px;">
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="./assets/Headshot.jpeg" alt="Professional Headshot" style="width: 150px; height: auto; border-radius: 8px;">
   
   <div>
     <div style="font-size: 2.5rem; font-weight: bold;">Sidh Gurnani</div>
@@ -28,19 +28,19 @@ _B.S. Mechanical Engineering · Purdue University · Aug 2021 - May 2025_
 
 **Coursework:**
 
-* **Math:** Calculus I-III, Linear Algebra, Differential Equations
-* **Controls:** Electrical Engineering Fundamentals I, Controls I, Controls II
-* **Mechanics:** Statics, Dynamics, Mechanics of Materials, Machine Design, Structure and Properties of Materials
-* **Programming:** Object Oriented Programming (in Java), Entry-Level Programming in Python, The Data Mine Seminar II, The Data Mine Corporate Partners IV
-* **Energy:** Thermodynamics I, Fluid Mechanics, Fluid Mechanics Lab, Heat and Mass Transfer
-* **Design:** Graphical Communication, Computer Aided Design & Prototyping (Toy Design), Tools, Methods, and Techniques for Rapid, Iterative Product Design and Analysis, Sophomore Design, Capstone Senior Design
-* **Other Electives:** Electric Vehicle Design, Engineering Economics, Introduction to Finite Element Analysis, System Methods
+* **Math:** Calculus I-III; Linear Algebra; Differential Equations
+* **Controls:** Electrical Engineering Fundamentals I; Controls I; Controls II
+* **Mechanics:** Statics; Dynamics; Mechanics of Materials; Machine Design; Structure and Properties of Materials
+* **Programming:** Object Oriented Programming (in Java); Entry-Level Programming in Python; The Data Mine Seminar II; The Data Mine Corporate Partners IV
+* **Energy:** Thermodynamics I; Fluid Mechanics; Fluid Mechanics Lab; Heat and Mass Transfer
+* **Design:** Graphical Communication; Computer Aided Design & Prototyping (Toy Design); Tools, Methods, and Techniques for Rapid, Iterative Product Design and Analysis; Sophomore Design; Capstone Senior Design
+* **Other Electives:** Electric Vehicle Design; Engineering Economics; Introduction to Finite Element Analysis; System Methods
 
 **Involvement:**
 
-* **Purdue Formula SAE:** Drivetrain Member &rarr; Drivetrain System Owner (Sept 2022 to May 2025)
-* **The Data Mine:** Data Science Undergraduate Reasearcher (Jan 2025 to May 2025)
-* **ME 290 Peer Mentor:** (Aug 2024 to May 2025)
+* **Purdue Formula SAE:** Drivetrain Member (September 2022 to May 2024) &rarr; Drivetrain System Owner (June 2024 to May 2025)
+* **The Data Mine:** Data Science Undergraduate Reasearcher (January 2025 to May 2025)
+* **ME 290 Peer Mentor:** (August 2024 to May 2025)
 
 <div><br></div>
 
