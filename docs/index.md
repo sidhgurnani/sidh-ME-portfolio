@@ -44,14 +44,6 @@ _B.S. Mechanical Engineering · Purdue University · Aug 2021 - May 2025_
 
 <div><br></div>
 
-## **Resume**
-
-<a href="./assets/Sidh Gurnani - Resume (8.04).pdf" target="_blank" class="md-button md-button--primary">
-  CLICK TO VIEW MY RESUME
-</a>
-
-<div><br></div>
-
 ## **Projects**
 <a href="projects/" target="_blank" class="md-button md-button--primary">
   CLICK TO VIEW MY PROJECTS
