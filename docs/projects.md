@@ -1,4 +1,6 @@
-## **YOLO-Based Binary Object Sorting System**
+<span id="object-detection-pipeline"></span>
+
+## **YOLO-Based Binary Object Sorting System** 
 _June 2024 to Present_
 
 This ongoing project uses machine learning and computer vision to identify and sort physical objects in real time. While my background is in mechanical engineering, I’ve always enjoyed coding and wanted to explore the intersection of software and hardware. Under the guidance of Dr. Nirav Merchant (University of Arizona), I’ve been developing a prototype that combines Python, YOLO, and Arduino-based actuation.

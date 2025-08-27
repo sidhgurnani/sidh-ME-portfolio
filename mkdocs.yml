@@ -23,12 +23,16 @@ theme:
     - scheme: default
       primary: black
       accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
     - scheme: slate
       primary: black
       accent: deep orange
       toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+        icon: material/brightness-4
+        name: Switch to light mode
   font:
     text: Roboto
     code: Fira Code
@@ -39,6 +43,11 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: "#"
 
 extra:
   social:
@@ -52,10 +61,12 @@ extra:
 
 plugins:
   - mkdocs-pdf
+  - autorefs
+  - search
 
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - All Projects: projects.md
 
 repo_url: https://github.com/sidhgurnani/sidh-ME-portfolio
 repo_name: GitHub
