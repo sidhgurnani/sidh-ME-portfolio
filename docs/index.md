@@ -19,6 +19,8 @@ My experience includes working with various tools and programs that allow me to 
 
 I enjoy tackling complex challenges that require a balance of creative thinking and technical precision. I have experience self-managing projects, coordinating tasks, and documenting work clearly, which allows me to apply a basic level of project management while leveraging AI and machine learning to drive projects forward. This approach enables me to deliver innovative and practical solutions across a variety of engineering fields, continuously learning and adapting as I grow in my career.
 
+In addition, I have also passed the Fundamentals of Engineering Mechanical Exam. View my certificate [here](https://www.credly.com/badges/e26c9eab-09fa-4799-9187-35e7419987a9/linked_in_profile).
+
 Outside of engineering, I enjoy exploring new interests and developing skills that broaden my perspective. I’m eager to collaborate with others and contribute to projects that drive meaningful results.
 
 <div><br></div>
@@ -42,7 +44,7 @@ _B.S. Mechanical Engineering · Purdue University · Aug 2021 - May 2025_
 * **The Data Mine:** Data Science Undergraduate Reasearcher (January 2025 to May 2025)
 * **ME 290 Peer Mentor:** (August 2024 to May 2025)
 
-**Certifications:**
+**Certificates (Personal Enrichment):**
 
 <div id="gallery" style="display: flex; flex-wrap: wrap; gap: 10px;"></div>
 
